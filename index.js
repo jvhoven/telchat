@@ -1,6 +1,6 @@
 // Load the TCP Library
 net = require('net');
-Server = require('./server');
+Server = require('./lib/server');
 
 // Load all commands
 // Start a TCP Server
